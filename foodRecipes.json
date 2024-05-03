@@ -1,0 +1,54 @@
+{
+  "foodRecipes": [
+    {
+      "id": "101",
+      "food": "Pizza",
+      "price": "15"
+    },
+    {
+      "id": "102",
+      "food": "Burger",
+      "price": "10"
+    },
+    {
+      "id": "103",
+      "food": "Pasta",
+      "price": "12"
+    },
+    {
+      "id": "104",
+      "food": "Salad",
+      "price": "8"
+    },
+    {
+      "id": "105",
+      "food": "Sushi",
+      "price": "18"
+    },
+    {
+      "id": "106",
+      "food": "Steak",
+      "price": "25"
+    },
+    {
+      "id": "107",
+      "food": "Fries",
+      "price": "5"
+    },
+    {
+      "id": "108",
+      "food": "Bread",
+      "price": "20"
+    },
+    {
+      "id": "109",
+      "food": "Ice Cream",
+      "price": "7"
+    },
+    {
+      "id": "110",
+      "food": "Soup",
+      "price": "9"
+    }
+  ]
+}
